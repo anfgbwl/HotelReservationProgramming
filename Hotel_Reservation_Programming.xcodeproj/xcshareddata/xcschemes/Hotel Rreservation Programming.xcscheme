@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3FA7C2752A691C680018C04D"
-               BuildableName = "Hotel_Rreservation_Programming"
-               BlueprintName = "Hotel_Rreservation_Programming"
-               ReferencedContainer = "container:Hotel_Rreservation_Programming.xcodeproj">
+               BuildableName = "Hotel_Reservation_Programming"
+               BlueprintName = "Hotel_Reservation_Programming"
+               ReferencedContainer = "container:Hotel_Reservation_Programming.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3FA7C2752A691C680018C04D"
-            BuildableName = "Hotel_Rreservation_Programming"
-            BlueprintName = "Hotel_Rreservation_Programming"
-            ReferencedContainer = "container:Hotel_Rreservation_Programming.xcodeproj">
+            BuildableName = "Hotel_Reservation_Programming"
+            BlueprintName = "Hotel_Reservation_Programming"
+            ReferencedContainer = "container:Hotel_Reservation_Programming.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3FA7C2752A691C680018C04D"
-            BuildableName = "Hotel_Rreservation_Programming"
-            BlueprintName = "Hotel_Rreservation_Programming"
-            ReferencedContainer = "container:Hotel_Rreservation_Programming.xcodeproj">
+            BuildableName = "Hotel_Reservation_Programming"
+            BlueprintName = "Hotel_Reservation_Programming"
+            ReferencedContainer = "container:Hotel_Reservation_Programming.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
