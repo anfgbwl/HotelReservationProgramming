@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3FA7C2762A691C680018C04D /* Hotel_Rreservation_Programming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hotel_Rreservation_Programming; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FA7C2762A691C680018C04D /* Hotel_Reservation_Programming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hotel_Reservation_Programming; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FA7C2792A691C680018C04D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		3FA7C26D2A691C680018C04D = {
 			isa = PBXGroup;
 			children = (
-				3FA7C2782A691C680018C04D /* Hotel Rreservation Programming */,
+				3FA7C2782A691C680018C04D /* Hotel Reservation Programming */,
 				3FA7C2772A691C680018C04D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		3FA7C2772A691C680018C04D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3FA7C2762A691C680018C04D /* Hotel_Rreservation_Programming */,
+				3FA7C2762A691C680018C04D /* Hotel_Reservation_Programming */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3FA7C2782A691C680018C04D /* Hotel Rreservation Programming */ = {
+		3FA7C2782A691C680018C04D /* Hotel Reservation Programming */ = {
 			isa = PBXGroup;
 			children = (
 				3FA7C2792A691C680018C04D /* main.swift */,
 			);
-			path = "Hotel Rreservation Programming";
+			path = "Hotel Reservation Programming";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3FA7C2752A691C680018C04D /* Hotel_Rreservation_Programming */ = {
+		3FA7C2752A691C680018C04D /* Hotel_Reservation_Programming */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FA7C27D2A691C680018C04D /* Build configuration list for PBXNativeTarget "Hotel_Rreservation_Programming" */;
+			buildConfigurationList = 3FA7C27D2A691C680018C04D /* Build configuration list for PBXNativeTarget "Hotel_Reservation_Programming" */;
 			buildPhases = (
 				3FA7C2722A691C680018C04D /* Sources */,
 				3FA7C2732A691C680018C04D /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = Hotel_Rreservation_Programming;
+			name = Hotel_Reservation_Programming;
 			productName = "Hotel Rreservation Programming";
-			productReference = 3FA7C2762A691C680018C04D /* Hotel_Rreservation_Programming */;
+			productReference = 3FA7C2762A691C680018C04D /* Hotel_Reservation_Programming */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3FA7C2712A691C680018C04D /* Build configuration list for PBXProject "Hotel_Rreservation_Programming" */;
+			buildConfigurationList = 3FA7C2712A691C680018C04D /* Build configuration list for PBXProject "Hotel_Reservation_Programming" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3FA7C2752A691C680018C04D /* Hotel_Rreservation_Programming */,
+				3FA7C2752A691C680018C04D /* Hotel_Reservation_Programming */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3FA7C2712A691C680018C04D /* Build configuration list for PBXProject "Hotel_Rreservation_Programming" */ = {
+		3FA7C2712A691C680018C04D /* Build configuration list for PBXProject "Hotel_Reservation_Programming" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FA7C27B2A691C680018C04D /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FA7C27D2A691C680018C04D /* Build configuration list for PBXNativeTarget "Hotel_Rreservation_Programming" */ = {
+		3FA7C27D2A691C680018C04D /* Build configuration list for PBXNativeTarget "Hotel_Reservation_Programming" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FA7C27E2A691C680018C04D /* Debug */,
